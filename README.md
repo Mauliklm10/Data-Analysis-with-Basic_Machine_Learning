@@ -1,2 +1,3 @@
 # Basic_Machine_Learning
-Problems and their Solutions and Knowledge gained from the Introduction to Machine Learning course by Duke university on Coursera
+
+This is a collection of the homeworks, assignments and projects I was given during my graduate level data analysis class.
